@@ -7,6 +7,8 @@ The goal is to identify the most effective model and support signal timing optim
 ---
 
 ## Dataset
+The dataset consists of hourly time-series traffic observations, where each sample represents the traffic conditions of a road segment at a specific timestamp. The data starts from 2018 to 2024 and contains 61368 samples with 30 features.
+
 The dataset includes traffic-related features such as:
 
 - Traffic volume
@@ -22,7 +24,7 @@ The dataset includes traffic-related features such as:
 - Raw data → preprocessing → cleaned dataset
 - Raw dataset is in:`data/all_features_traffic_dataset.csv`
 - Preprocessing is implemented in:`notebooks/Data_Preprocessing.ipynb`
-- Final dataset used for modeling: 'data/cleansed_traffic_monitoring.csv'
+- Final dataset used for modeling: `data/cleansed_traffic_monitoring.csv`
 
 
 ---
