@@ -99,7 +99,7 @@ Run the notebooks in the following order:
 
 ## Authors
 - Yixuan (Kelsy) Li  
-- Wenqing Liang  
+- Wenqing(Chelsey) Liang  
 - Jingwei (Zerek) Yu
 
 ---
