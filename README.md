@@ -105,10 +105,10 @@ Run the notebooks in the following order:
 ---
 
 ## Contributions
-- **Data preprocessing & EDA:** [Name]  
-- **Baseline model implementation:** [Name]  
+- **Data preprocessing & EDA:** [Yixuan Li, Wenqing Liang]  
+- **Baseline model implementation:** [Yixuan Li]  
 - **SVM model and tuning:** [Jingwei Yu]  
-- **MLP model and optimization:** [Name]  
+- **MLP model and optimization:** [Wenqing Liang]  
 - **Report writing & visualization:** [Yixuan Li, Wenqing Liang, Jingwei Yu]
-- **Presentation design & slide preparation:** [Name]
+- **Presentation design & slide preparation:** [Yixuan Li]
 - **Repository management & organization:** [Jingwei Yu]
